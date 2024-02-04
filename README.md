@@ -1,3 +1,4 @@
+(Wag niyo muna pansinin yung ibang files basta sa "HTML.html" kayo mag edit)
 Bago niyo i-update or save yung file testing niyo muna sa notepad
   # Open niyo notepad
   # Copy paste niyo buong code
